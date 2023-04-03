@@ -57,7 +57,9 @@ server_address =('',8000)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ## OUTPUT:
-![OUTPUT](./client.jpeg)
-![OUTPUT](./server.jpeg)
+![Screenshot (11)](https://user-images.githubusercontent.com/122253525/229408118-b347412e-1ba8-4925-9324-8dfc4c64964e.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/122253525/229408216-85e6fd8a-353c-4ed5-a206-dab91c8f72e8.png)
+
+
 ## RESULT:
 The program is executed succesfully
